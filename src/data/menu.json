@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Tikka",
+    "price": 16,
+    "category": "Small Plates",
+    "dietaryTags": ["VEGETARIAN", "GLUTEN-FREE"],
+    "image": "/images/dishes/paneer-tikka.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Butter Chicken",
+    "price": 28,
+    "category": "Signature Curries",
+    "dietaryTags": ["GLUTEN-FREE"],
+    "image": "/images/dishes/butter-chicken.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mishti Doi",
+    "price": 12,
+    "category": "Desserts",
+    "dietaryTags": ["VEGETARIAN"],
+    "image": "/images/dishes/mishti-doi.jpg"
+  }
+]
